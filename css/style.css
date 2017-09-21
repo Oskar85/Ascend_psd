@@ -625,5 +625,5 @@ article .left
     .hamburger {cursor: pointer; padding: 15px; display: block;}
     .line {margin: 0 auto; border-bottom: 4px solid #777; width: 35px; margin-bottom: 6px;}
     .line:last-child {margin-bottom: 0;}
-    .menu {height: 0; overflow: hidden;}
+    .menu {display:none;}
 }
